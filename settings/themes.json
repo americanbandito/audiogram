@@ -15,6 +15,16 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
+  "American Bandito Background image with top right text": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "amband-1280-720.png",
+    "foregroundColor": "#fff",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
   "Basic": {
     "backgroundColor": "#eee",
     "foregroundColor": "#de1e3d"
